@@ -11,4 +11,4 @@ Idle bearing with integrated caged bearing balls. <br/>
 ![alt text](https://github.com/3dprintingworld/Linear-Actuator/blob/main/Images/LINEAR%20ACTUATOR-1.JPG)
 ![alt text](https://github.com/3dprintingworld/Linear-Actuator/blob/main/Images/LINEAR%20ACTUATOR-2.JPG)
 ![alt text](https://github.com/3dprintingworld/Linear-Actuator/blob/main/Images/LINEAR%20ACTUATOR-3.JPG)
-![alt text](https://github.com/3dprintingworld/Linear-Actuator/blob/main/Images/IDLE-2.png.JPG)
+![alt text](https://github.com/3dprintingworld/Linear-Actuator/blob/main/Images/IDLE-2.png)
