@@ -1,5 +1,4 @@
-# Linear-Actuator<br/>
-Mostly printed Linear Actuator with PTFE bearing
+# Mostly printed Linear Actuator with PTFE bearing<br/>
 <br/>
 Make a linear actuator with only a few purchased components and your 3D printer! Perfect for low load, low cycle applications. All you need is a 3D printer, stepper motor, bearing balls, fasteners, and PTFE bowden tubing. <br/>
 ### Features:
