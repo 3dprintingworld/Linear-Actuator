@@ -12,3 +12,4 @@ Printable TPU GT2 belt file included, prints in vase mode. It is also compatible
 ![alt text](https://github.com/3dprintingworld/Linear-Actuator/blob/main/Images/LINEAR%20ACTUATOR-3.JPG)
 ![alt text](https://github.com/3dprintingworld/Linear-Actuator/blob/main/Images/IDLE-2.png)
 ![alt text](https://github.com/3dprintingworld/Linear-Actuator/DL1/Images/CONNECTION BRACKET.png
+![Muldex](Images/ACTUATOR%DL2-2.jpg)
